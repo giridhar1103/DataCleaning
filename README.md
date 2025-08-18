@@ -1,2 +1,2 @@
 # DataCleaning
-Repo to keep track the different methods to clean various datasetsss
+Repo to keep track the different methods to clean various datasetss
