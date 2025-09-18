@@ -4,4 +4,4 @@ import os
 df = pd.read_csv("data.py")
 
 
-df.head
+df.
