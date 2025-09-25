@@ -1,4 +1,4 @@
 import pandas as pd
 import seaborn
 
-df = 
+df = pd.read_csv
